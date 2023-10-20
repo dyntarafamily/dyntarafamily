@@ -13,6 +13,10 @@ Hi! We (Diyan and Diyon) are a couple who are ready to compete in the industrial
 * Video Editor
 * Office Applications
 
+
+<img src="https://scontent.fbdo9-1.fna.fbcdn.net/v/t39.30808-6/393271944_122111713412071200_2548858774110441010_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGAiUTt0jX8OKWoIpHZCrRyFQTyqVbe2xkVBPKpVt7bGX67EvKMEvaUIjZtnPls4OZV8g9vmszpMkMMAsLWKwqF&_nc_ohc=1h3n-AT3WEUAX89bU5W&_nc_ht=scontent.fbdo9-1.fna&oh=00_AfAjHR21OHO8dJ_fJSkOMNsdRZul7UnNJ-QUgaY80O_9eQ&oe=6536C953">
+
+
 <h2>Find Us</h2>
 <p>
   <ul>
